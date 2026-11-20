@@ -19,3 +19,7 @@ I'm a second-year Information Technology student at Metropolia University of App
 ## Languages
 
 English (professional), Amharic (native), Finnish (A2)
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/nathan-girma-582516387)
