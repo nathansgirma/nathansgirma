@@ -13,8 +13,8 @@ I'm a second-year Information Technology student at Metropolia University of App
 
 | Project | What it is |
 |---|---|
-| [dontstress-hrv-monitor](https://github.com/nathansgirma-web/dontstress-hrv-monitor) | Heart rate and HRV monitor on a Raspberry Pi Pico W. Group project; I built the Wi-Fi, MQTT and Kubios Cloud networking. |
-| [Exercises](https://github.com/nathansgirma-web/Exercises) | Coursework in C, Python and JavaScript, including a command-line car sales manager in C. |
+| [dontstress-hrv-monitor](https://github.com/nathansgirma/dontstress-hrv-monitor) | Heart rate and HRV monitor on a Raspberry Pi Pico W. Group project; I built the Wi-Fi, MQTT and Kubios Cloud networking. |
+| [Exercises](https://github.com/nathansgirma/Exercises) | Coursework in C, Python and JavaScript, including a command-line car sales manager in C. |
 
 ## Languages
 
